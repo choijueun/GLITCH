@@ -1,8 +1,8 @@
-### Profile
+### chr_profile
 GLITCH MEMBER PROFILE PAGE
 1. No
-    - 일련번호
     - PK & AUTO_INCREMENT
+    - 일련번호
 1. id
     - FK
     - 작성자 아이디
@@ -36,3 +36,16 @@ GLITCH MEMBER PROFILE PAGE
 2. update_date
     - DATETIME
     - 수정일시
+
+### chr_skill
+
+### chr_subclass
+1. No
+    - 일련번호
+    - PK & AUTO_INCREMENT
+2. chr_no
+    - FK (chr_profile)
+    - 캐릭터 프로필 번호
+3. chr_subclass
+    - VARCHAR
+    - 서브클래스
