@@ -1,2 +1,5 @@
 ### Profile
 GLITCH MEMBER PROFILE PAGE
+1. No
+    - 일련번호
+    - PK & AUTO_INCREMENT
