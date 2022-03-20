@@ -15,9 +15,10 @@ GLITCH MEMBER PROFILE PAGE
 1. chr_rank
     - INT
     - CR(RANK)
-1. chr_arch
-1. chr_class
-    - 
+1. chr_aclass
+    - 아키 직업
+1. chr_mclass
+    - 메인 직업
 1. chr_str
     - INT
     - 능력치 STR
