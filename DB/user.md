@@ -1,7 +1,7 @@
 ### 회원ID
 탈퇴해도 이미 사용된 아이디는 사용할 수 없게
 1. No
-    - PK & AUTO_INCREASED
+    - PK & AUTO_INCREMENT
     - 일련번호
 1. id		
     - UNIQUE
@@ -33,7 +33,7 @@
 
 ### 로그인 내역
 1. id
-    - PK & AUTO_INCREASED
+    - PK & AUTO_INCREMENT
     - 일련번호
 1. login
     - DATETIME
