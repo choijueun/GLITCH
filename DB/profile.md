@@ -34,7 +34,7 @@ GLITCH MEMBER PROFILE PAGE
 1. reg_date
     - DATETIME
     - 작성일시
-2. update_date
+1. update_date
     - DATETIME
     - 수정일시
 
@@ -48,13 +48,28 @@ GLITCH MEMBER PROFILE PAGE
 1. No
     - 일련번호
     - PK & AUTO_INCREMENT
-2. chr_no
+1. chr_no
     - FK (chr_profile)
     - 캐릭터 프로필 번호
-3. chr_subclass
+1. subclass
     - VARCHAR
     - 서브클래스
 
 <br/>
 
 ### chr_connection
+1. No
+    - 일련번호
+    - PK & AUTO_INCREMENT
+1. chr_no
+    - FK (chr_profile)
+    - 캐릭터 프로필 번호
+1. name
+    - VARCHAR
+    - 커넥션 캐릭터명
+1. relationship
+    - VARCHAR
+    - 관계
+1. content
+    - TEXT
+    - 설명
