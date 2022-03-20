@@ -31,6 +31,9 @@ GLITCH MEMBER PROFILE PAGE
 1. chr_int
     - INT
     - 능력치 INT
+1. union
+    - FK & VARCHAR
+    - DEFAULT: GLITCH
 1. reg_date
     - DATETIME
     - 작성일시
