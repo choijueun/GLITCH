@@ -38,7 +38,11 @@ GLITCH MEMBER PROFILE PAGE
     - DATETIME
     - 수정일시
 
+<br/>
+
 ### chr_skill
+
+<br/>
 
 ### chr_subclass
 1. No
@@ -50,3 +54,7 @@ GLITCH MEMBER PROFILE PAGE
 3. chr_subclass
     - VARCHAR
     - 서브클래스
+
+<br/>
+
+### chr_connection
